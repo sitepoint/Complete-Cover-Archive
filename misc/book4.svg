@@ -1,0 +1,44 @@
+<svg width="70" height="70" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>book4</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-9045 1940)">
+<g id="book4">
+<g id="Rectangle 26">
+<use xlink:href="#path0_fill" transform="translate(9045 -1940)" fill="#BB6BD9"/>
+</g>
+<g id="book6">
+<g id="Layer 2">
+<g id="Layer 1">
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="matrix(0.505484 -0.862836 -0.869157 -0.494536 9082.68 -1878.65)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path2_fill" transform="matrix(0.505484 -0.862836 -0.869157 -0.494536 9081.96 -1906.91)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path3_fill" transform="matrix(0.505484 -0.862836 -0.869157 -0.494536 9072.75 -1884.3)" fill="#F3DEFC"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path4_fill" transform="matrix(0.505484 -0.862836 -0.869157 -0.494536 9082.81 -1877.96)" fill="#333333"/>
+</g>
+<g id="label">
+<use xlink:href="#path5_fill" transform="matrix(0.505484 -0.862836 -0.869157 -0.494536 9083.17 -1896.84)" fill="#F3DEFC"/>
+</g>
+<g id="Rectangle 27">
+<use xlink:href="#path6_fill" transform="matrix(1.00544 -1.67408e-08 -2.66327e-08 0.994491 9072.53 -1911.7)" fill="#333333"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 0L 70 0L 70 70L 0 70L 0 0Z"/>
+<path id="path1_fill" d="M 0 11.3846L 19.6693 0L 43.5114 13.8027L 23.8421 25.1873L 0 11.3846Z"/>
+<path id="path2_fill" d="M 17.9007 -2.34275e-07L 9.34622e-07 10.3789L 9.34622e-07 17.1575L 17.9007 6.77854L 17.9007 -2.34275e-07Z"/>
+<path id="path3_fill" d="M 23.9569 20.6427L 0 6.77086L 0 2.34275e-07L 23.9569 13.8641L 23.9569 20.6427Z"/>
+<path id="path4_fill" d="M 44.7901 16.8581L 43.9478 16.4051L 43.9402 16.4051L 43.1822 15.9906L 43.1822 15.4379L 43.6646 15.1615L 44.7901 14.5858L 19.6693 0L 0 11.5458L 0 18.9384L 24.5848 33.148L 24.5924 33.148L 44.7901 21.4641L 43.9478 21.0112L 43.9402 21.0112L 43.1822 20.5966L 43.1822 20.0823L 44.7901 19.1534L 43.9478 18.7005L 43.9402 18.7005L 43.1822 18.2859L 43.1822 17.7716L 44.7901 16.8581ZM 25.1131 28.2503L 42.0337 18.4548L 42.0337 19.7982L 25.1131 29.5707L 25.1131 28.2503ZM 25.1131 27.2293L 25.1131 25.9089L 42.0337 16.1134L 42.0337 17.4261L 25.1131 27.2293ZM 23.9493 25.4022L 23.9646 25.4253L 23.9646 31.6127L 1.14846 18.378L 1.14846 12.1369L 19.6464 1.18989L 42.6463 14.5781L 23.9493 25.4022ZM 25.1131 30.5533L 42.0337 20.7578L 42.0337 22.1013L 25.1131 31.8737L 25.1131 30.5533Z"/>
+<path id="path5_fill" d="M 19.1028 4.08401L 7.04391 11.0621L 0 6.98581L 12.0589 0L 19.1028 4.08401Z"/>
+<path id="path6_fill" d="M 0 0L 1.02384 0L 1.02384 27.5431L 0 27.5431L 0 0Z"/>
+</defs>
+</svg>
