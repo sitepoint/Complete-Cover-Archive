@@ -1,0 +1,38 @@
+<svg width="27" height="34" viewBox="0 0 27 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>book1</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-10363 1351)">
+<g id="book1">
+<g id="Rectangle 2">
+<use xlink:href="#path0_fill" transform="translate(10365 -1350)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path1_fill" transform="translate(10368 -1322)" fill="#675CF5"/>
+</g>
+<g id="Rectangle 2.1">
+<use xlink:href="#path2_fill" transform="translate(10372 -1342)" fill="#675CF5"/>
+</g>
+<g id="Rectangle 2.2">
+<use xlink:href="#path2_fill" transform="translate(10372 -1338)" fill="#675CF5"/>
+</g>
+<g id="Rectangle 2.3">
+<use xlink:href="#path2_fill" transform="translate(10372 -1334)" fill="#675CF5"/>
+</g>
+<g id="Subtract">
+<use xlink:href="#path3_fill" transform="translate(10365 -1349)" fill="#675CF5" fill-opacity="0.3"/>
+</g>
+<g id="Subtract">
+<use xlink:href="#path4_fill" transform="translate(10363 -1351)" fill="#675CF5"/>
+<use xlink:href="#path5_fill" transform="translate(10363 -1351)" fill="#675CF5"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 0L 23 0L 23 32L 0 32L 0 0Z"/>
+<path id="path1_fill" d="M 0 0L 20 0L 20 1L 0 1L 0 0Z"/>
+<path id="path2_fill" d="M 0 0L 13 0L 13 1L 0 1L 0 0Z"/>
+<path id="path3_fill" d="M 3 23.2345L 3 0L 1.2 0C 0.205664 0 0 0.505097 0 2.02039L 0 24C 0.428906 23.5165 0.945117 23.2345 1.5 23.2345L 3 23.2345Z"/>
+<path id="path4_fill" fill-rule="evenodd" d="M 0 3C 0 1.34314 1.34277 0 3 0L 27 0L 27 27L 4.5 27C 3.11914 27 2 28.1193 2 29.5C 2 30.8807 3.11914 32 4.5 32L 25.0039 32L 27 32L 27 34L 4.5 34C 2.01465 34 0 31.9852 0 29.5C 0 29.2175 0.0263672 28.9412 0.0761719 28.6731C 0.0263672 28.4567 0 28.2314 0 28L 0 3ZM 25 2L 25 25L 4.5 25C 3.5752 25 2.71484 25.2792 2 25.7578L 2 4C 2 2.5 2.34277 2 4 2L 25 2Z"/>
+<path id="path5_fill" d="M 25.0039 32C 25 31.8473 25 31.6809 25 31.5L 25.0039 32Z"/>
+</defs>
+</svg>

@@ -1,0 +1,38 @@
+<svg width="27" height="44" viewBox="0 0 27 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>book6</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-9816 1673)">
+<g id="book6">
+<g id="Layer 2">
+<g id="Layer 1">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="matrix(0.5 -0.866025 -0.866025 -0.5 9832.86 -1624.43)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="matrix(0.5 -0.866025 -0.866025 -0.5 9832.16 -1652.28)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path2_fill" transform="matrix(0.5 -0.866025 -0.866025 -0.5 9823.22 -1630)" fill="#F3DEFC"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path3_fill" transform="matrix(0.5 -0.866025 -0.866025 -0.5 9832.99 -1623.75)" fill="#333333"/>
+</g>
+<g id="label">
+<use xlink:href="#path4_fill" transform="matrix(0.5 -0.866025 -0.866025 -0.5 9833.34 -1642.36)" fill="#F3DEFC"/>
+</g>
+<g id="Rectangle 27">
+<use xlink:href="#path5_fill" transform="translate(9823 -1657)" fill="#333333"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 11.0993L 19.3169 0L 42.7319 13.4569L 23.4149 24.5561L 0 11.0993Z"/>
+<path id="path1_fill" d="M 17.58 -2.28404e-07L 9.17877e-07 10.1188L 9.17877e-07 16.7275L 17.58 6.60868L 17.58 -2.28404e-07Z"/>
+<path id="path2_fill" d="M 23.5277 20.1254L 0 6.60119L 0 2.28404e-07L 23.5277 13.5167L 23.5277 20.1254Z"/>
+<path id="path3_fill" d="M 43.9876 16.4356L 43.1605 15.994L 43.153 15.994L 42.4085 15.5899L 42.4085 15.051L 42.8823 14.7816L 43.9876 14.2203L 19.3169 0L 0 11.2565L 0 18.4639L 24.1443 32.3174L 24.1518 32.3174L 43.9876 20.9262L 43.1605 20.4847L 43.153 20.4847L 42.4085 20.0805L 42.4085 19.5791L 43.9876 18.6734L 43.1605 18.2319L 43.153 18.2319L 42.4085 17.8277L 42.4085 17.3263L 43.9876 16.4356ZM 24.6631 27.5424L 41.2807 17.9924L 41.2807 19.3021L 24.6631 28.8297L 24.6631 27.5424ZM 24.6631 26.547L 24.6631 25.2597L 41.2807 15.7096L 41.2807 16.9895L 24.6631 26.547ZM 23.5202 24.7657L 23.5352 24.7882L 23.5352 30.8205L 1.12789 17.9175L 1.12789 11.8328L 19.2944 1.16007L 41.8822 14.2128L 23.5202 24.7657ZM 24.6631 29.7877L 41.2807 20.2377L 41.2807 21.5474L 24.6631 31.075L 24.6631 29.7877Z"/>
+<path id="path4_fill" d="M 18.7605 3.98167L 6.91771 10.7849L 0 6.81076L 11.8428 0L 18.7605 3.98167Z"/>
+<path id="path5_fill" d="M 0 0L 1 0L 1 27L 0 27L 0 0Z"/>
+</defs>
+</svg>

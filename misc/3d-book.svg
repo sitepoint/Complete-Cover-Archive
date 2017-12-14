@@ -1,0 +1,36 @@
+<svg width="67" height="66" viewBox="0 0 67 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>3d-book</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-10060 1676)">
+<g id="3d-book">
+<g id="if_tv_328077">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(10060 -1676)" fill="#F2994A"/>
+</g>
+</g>
+<g id="Union">
+<use xlink:href="#path1_fill" transform="translate(10074 -1658.12)" fill="#000000" fill-opacity="0.25"/>
+</g>
+<g id="Rectangle 16">
+<use xlink:href="#path2_fill" transform="translate(10090 -1649)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle 16.1">
+<use xlink:href="#path3_fill" transform="translate(10098.6 -1656.95)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle 16.2">
+<use xlink:href="#path4_fill" transform="translate(10074 -1656.95)" fill="#FFFFFF"/>
+</g>
+<g id="Subtract">
+<use xlink:href="#path5_fill" transform="translate(10076 -1659.02)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 67 57.3755C 67 62.1387 63.0801 66 58.2448 66L 8.75532 66C 3.92004 66 3.67057e-08 62.1387 3.67057e-08 57.3755L 3.67057e-08 8.62437C 3.67057e-08 3.8614 3.92004 -2.60549e-08 8.75532 -2.60549e-08L 58.2448 -2.60549e-08C 63.0801 -2.60549e-08 67 3.8614 67 8.62437L 67 57.3755Z"/>
+<path id="path1_fill" d="M 30.0762 0.188292L 19.5 8.62012L 9.27441 0.120177C 6.27832 0.399473 3.82031 -0.256958 2 0.120117L 2 1.12018L 1 0.620117L 0 1.12018L 0 24.0059L 0.832031 24.4178L 0.5 24.6202L 24 48.1202L 44.2451 48.1202C 49.0801 48.1202 53 44.259 53 39.4957L 53 15.1202L 39 1.12018L 38 0.620117L 37 1.12012L 37 0.120117C 35.3628 -0.152247 32.1373 0.402888 30.0762 0.188292Z"/>
+<path id="path2_fill" d="M 0 0C 3 0.5 4 0.5 7 0L 7 22.602C 4.38283 23.126 2.85312 23.1393 0 22.602L 0 0Z"/>
+<path id="path3_fill" d="M 0 7.48865L 14.3683 0L 14.3683 22.4659L 0 29.9546L 0 7.48865Z"/>
+<path id="path4_fill" d="M 0 0L 14.3683 7.48865L 14.3683 29.9546L 0 22.8404L 0 0Z"/>
+<path id="path5_fill" d="M 7.06543 0C 4.11133 0.269897 1.79883 0.635742 0 1.02002L 14 9.02002C 14 9.02002 16.3662 9.52002 17.5 9.52002C 18.6338 9.52002 21 9.02002 21 9.02002L 35 1.02002C 33.1152 0.667725 30.5596 0.261597 28 0C 28 0 21.7191 6.02456 17.5 9.52002C 13.4254 5.99748 7.06543 0 7.06543 0Z"/>
+</defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg width="38" height="37" viewBox="0 0 38 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>tick</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-7879 -1301)">
+<g id="tick">
+<use xlink:href="#path0_fill" transform="translate(7880 1302)" fill="#27AE60"/>
+<use xlink:href="#path1_stroke" transform="translate(7880 1302)" fill="#219653"/>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 14.8448 35L 0 14.1746L 13.431 21.9841L 36.5 0L 14.8448 35Z"/>
+<path id="path1_stroke" d="M 0 14.1746L 0.251329 13.7424L -0.407148 14.4648L 0 14.1746ZM 14.8448 35L 14.4377 35.2902L 14.8743 35.9027L 15.27 35.2631L 14.8448 35ZM 36.5 0L 36.9252 0.263076L 36.1551 -0.361962L 36.5 0ZM 13.431 21.9841L 13.1797 22.4164L 13.5042 22.6051L 13.776 22.3461L 13.431 21.9841ZM -0.407148 14.4648L 14.4377 35.2902L 15.252 34.7098L 0.407148 13.8844L -0.407148 14.4648ZM 15.27 35.2631L 36.9252 0.263076L 36.0748 -0.263076L 14.4196 34.7369L 15.27 35.2631ZM 36.1551 -0.361962L 13.0861 21.6222L 13.776 22.3461L 36.8449 0.361962L 36.1551 -0.361962ZM 13.6824 21.5519L 0.251329 13.7424L -0.251329 14.6068L 13.1797 22.4164L 13.6824 21.5519Z"/>
+</defs>
+</svg>
