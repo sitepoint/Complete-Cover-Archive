@@ -5,8 +5,8 @@
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&amp;display=swap');
     text{
-      font-family: Inter, Arial, Helvetica, sans-serif;
-      white-space:pre; 
+      font-family: 'Inter', Arial, Helvetica, sans-serif;
+      white-space: pre; 
       fill: #fff; 
     }
   </style>
@@ -98,20 +98,20 @@
   </defs>
   <g transform="matrix(1, 0, 0, 1, -8.406, 231.522995)">
     <rect x="8.406" y="-231.523" width="598.152" height="731.043" style="fill: url(#gradient-0);"/>
-    <g id="cloud" transform="matrix(1.024421, 0, 0, 1, -1002.13678, -830.012878)" style="">
+    <g id="cloud" transform="matrix(1.024421, 0, 0, 1, -1002.1, -830.0)" style="">
       <g class="cls-22" style="clip-path: url(#clip-path-2);">
         <path class="cls-26" d="M 1569.819 1062.62 L 1569.819 1331.614 L 986.453 1331.614 L 986.453 810.751 C 1054.44 818.169 1117.682 849.389 1154.519 894.12 C 1193.719 941.72 1202.019 1003.62 1176.119 1056.42 C 1200.619 1044.62 1234.419 1045.32 1257.219 1058.92 C 1280.019 1072.52 1290.219 1097.52 1281.419 1118.82 C 1289.919 1102.52 1312.319 1095.12 1334.519 1099.42 C 1356.719 1103.72 1372.819 1121.72 1370.319 1139.22 C 1393.419 1098.42 1442.419 1071.42 1499.019 1062.52 C 1522.521 1058.954 1546.428 1058.988 1569.919 1062.62 Z" style="fill: url(#gradient-1);"/>
         <path class="cls-26" d="M 1574.4 1330.869 L 986.453 1331.567 L 986.453 1014.667 C 1024.603 1019.498 1061.224 1030.901 1092.2 1048.8 C 1168 1092.6 1204.4 1173.8 1177.4 1243.8 C 1195.1 1216.4 1235.6 1201.3 1275.3 1199.1 C 1315 1196.9 1355.6 1212 1378.1 1237.2 C 1400.6 1262.4 1404.4 1296.9 1387.6 1324.7 C 1418.4 1283.2 1489.3 1264 1548.8 1277.7 C 1556.158 1279.389 1563.378 1281.629 1570.4 1284.4 Z" style="fill: rgba(255, 255, 255, 0.18);"/>
       </g>
     </g>
-    <use width="134.72860717773438" height="29.4" transform="matrix(0.96, 0, 0, 0.96, 397, -176.66)" style="" xlink:href="#sitepoint-0"/>
+    <use width="134.73" height="29.4" transform="matrix(0.96, 0, 0, 0.96, 397, -176.66)" style="" xlink:href="#sitepoint-0"/>
     <use width="235.4" height="292" transform="matrix(0.93, 0, 0, 0.93, 74.75, 110.83)" style="" xlink:href="#bird2"/>
     <g transform="matrix(1, 0, 0, 1, -971.138855, -824.884888)">
-      <text style="fill: rgb(255, 255, 255);   font-size: 31px; font-weight: 600; text-anchor: end; white-space: pre;" x="1523.81" y="767.017">THE PRINCIPLES OF</text>
-      <text style="fill: rgb(255, 255, 255);   font-size: 20px; font-weight: 600; text-anchor: end; white-space: pre;" x="1523.8" y="929.247">FOURTH EDITION</text>
-      <text style="fill: rgb(255, 255, 255);   font-size: 16px; font-weight: 700; letter-spacing: 0.9px; white-space: pre; text-anchor: middle;" x="1281.605" y="1271.667">DESIGNING GREAT WEB SITES IS NOT ROCKET SCIENCE!</text>
-      <text transform="matrix(1, 0, 0, 1, -684.72, -113.28)" style="fill: rgb(255, 255, 255);   font-size: 16px; font-weight: 500; text-anchor: end; white-space: pre;"><tspan x="2208.52" y="1065.1">BY JASON BEAIRD,</tspan><tspan x="2208.52" dy="1.1em">​</tspan><tspan>JAMES GEORGE,</tspan><tspan x="2208.52" dy="1.1em">​</tspan><tspan>&amp; ALEX WALKER</tspan></text>
+      <text style="fill: rgb(255, 255, 255);   font-size: 31px; font-weight: 600; text-anchor: end;" x="1523.81" y="767.017">THE PRINCIPLES OF</text>
+      <text style="fill: rgb(255, 255, 255);   font-size: 20px; font-weight: 600; text-anchor: end; " x="1523.8" y="929.247">FOURTH EDITION</text>
+      <text style="fill: rgb(255, 255, 255);   font-size: 16px; font-weight: 700; letter-spacing: 0.9px;  text-anchor: middle;" x="1281.605" y="1271.667">DESIGNING GREAT WEB SITES IS NOT ROCKET SCIENCE!</text>
+      <text transform="matrix(1, 0, 0, 1, -684.72, -113.28)" style="fill: rgb(255, 255, 255);   font-size: 16px; font-weight: 500; text-anchor: end; "><tspan x="2208.52" y="1065.1">BY JASON BEAIRD,</tspan><tspan x="2208.52" dy="1.1em">​</tspan><tspan>JAMES GEORGE,</tspan><tspan x="2208.52" dy="1.1em">​</tspan><tspan>&amp; ALEX WALKER</tspan></text>
     </g>
   </g>
-  <text transform="matrix(1, 0, 0, 1, 358.5, 32.6)" style="fill: rgb(255, 255, 255);   font-size: 74px; font-weight: 500; letter-spacing: -2.6px; text-anchor: end; white-space: pre;"><tspan x="194.685" y="207.68">BEAUTIFUL</tspan><tspan x="194.69" dy="0.9em">​</tspan><tspan>WEB DESIGN</tspan></text>
+  <text transform="matrix(1, 0, 0, 1, 358.5, 32.6)" style="fill: rgb(255, 255, 255);   font-size: 74px; font-weight: 500; letter-spacing: -2.6px; text-anchor: end; "><tspan x="194.685" y="207.68">BEAUTIFUL</tspan><tspan x="194.69" dy="0.9em">​</tspan><tspan>WEB DESIGN</tspan></text>
 </svg>
