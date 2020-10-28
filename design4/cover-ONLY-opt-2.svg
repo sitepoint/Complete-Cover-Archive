@@ -72,10 +72,10 @@
       text {
         font-family: 'Inter', Arial, Helvetica, sans-serif;
         fill: #fff;
-        outline: 1px red dashed;
+
       }
       tspan{
-        outline: 1px yellow dashed;
+
         text-anchor: end;
         text-align: right;
       }
@@ -93,7 +93,7 @@
   <text x="551" y="180" font-size="31" font-weight="600" text-anchor="end" style="white-space: pre;"><title>The-principles-of</title>THE PRINCIPLES OF</text>
   <text fill="#fff" font-size="74" font-weight="500" letter-spacing="-2.6" >
   <tspan  x="550" y="245">BEAUTIFUL</tspan><tspan  x="522" dy="0.9em">WEB DESIGN​ </tspan></text>
-  <circle r="3" fill="red" cx="552" cy="245" />
+
   <g fill="#fff">
     <title>Fourth-ed-authors</title>
     <text x="550" y="340" font-size="20" font-weight="600" text-anchor="end" style="">FOURTH EDITION</text>
