@@ -1,0 +1,79 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/alexmwalker/Sites/Cover-archive/Complete-Cover-Archive/LEARNTOCODE1/PRINT-READY/LTC1 Folder/Document fonts/AdobeFnt22.lst
+FileLength:1686
+FileModTime:637476848
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BradleyHandITCTT-Bold
+FamilyName:Bradley Hand
+StyleName:Bold
+MenuName:Bradley Hand
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Bradley Hand Bold
+WritingScript:Roman
+OutlineFileName:/Users/alexmwalker/Sites/Cover-archive/Complete-Cover-Archive/LEARNTOCODE1/PRINT-READY/LTC1 Folder/Document fonts/Bradley Hand Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:596216
+FileModTime:637476847
+NameArray:0,Mac,4,Bradley Hand Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Swiss721BT-Roman
+FamilyName:Swis721 BT
+StyleName:Roman
+MenuName:Swis721 BT
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Swiss 721 BT
+WritingScript:Roman
+OutlineFileName:/Users/alexmwalker/Sites/Cover-archive/Complete-Cover-Archive/LEARNTOCODE1/PRINT-READY/LTC1 Folder/Document fonts/swiss.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:36548
+FileModTime:145243500
+NameArray:0,Mac,4,Swiss 721 BT
+NameArray:0,Win,1,Swis721 BT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Swiss721BT-Bold
+FamilyName:Swis721 BT
+StyleName:Bold
+MenuName:Swis721 BT
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Swiss 721 Bold BT
+WritingScript:Roman
+OutlineFileName:/Users/alexmwalker/Sites/Cover-archive/Complete-Cover-Archive/LEARNTOCODE1/PRINT-READY/LTC1 Folder/Document fonts/swissb.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:36852
+FileModTime:145243500
+NameArray:0,Mac,4,Swiss 721 Bold BT
+NameArray:0,Win,1,Swis721 BT
+%EndFont
+
