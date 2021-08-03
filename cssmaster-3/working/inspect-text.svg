@@ -1,0 +1,389 @@
+<svg viewBox="0 0 1404 634" fill="none" xmlns="http://www.w3.org/2000/svg">
+ <style>
+  .csspanel text {
+   font-family: sans-serif
+  }
+  .fira-code {
+   white-space: pre;
+   font-family: 'Fira Code', monospace;
+   font-size: 27px;
+   letter-spacing: 0;
+  }
+  .mask-cssmaster,
+  .codeselect rect:nth-of-type(1){
+   opacity: 1;
+   animation: picker 8s infinite;
+  }
+  .mask-third,
+  .codeselect rect:nth-of-type(2){
+   opacity: 1;
+   animation: picker 8s infinite -2s;
+  }
+  .mask-peacock,
+  .codeselect rect:nth-of-type(3){
+   opacity: 1;
+   animation: picker 8s infinite -4s;
+  }
+  @keyframes cursor {
+ 
+ 0% {transform: translate3d(250px,-150px,0) }
+ 25%{transform: translate3d(0,0,0) }
+ 50% {transform: translate3d(250px,50px,0) }
+ 75% {transform: translate3d(250px,-50px,0) }
+ 
+ 100% {transform: translate3d(250px,-150px,0) }
+}
+.cursor{
+ animation: cursor 8s infinite cubic-bezier(.91,0,.07,1);
+}
+  @keyframes picker {
+   0% {opacity: 1;}
+   25% {opacity: 1;}
+   27% {opacity: 0;}
+   98% {opacity: 0;}
+   100% {opacity: 1;}
+  }
+ </style>
+
+ <defs>
+  
+  <symbol id="cursor"  viewBox="0 0 58 63">
+    <path fill="#000" fill-rule="evenodd" d="M32.8 34.6l14.4-5.2L8.4 8.1 19.7 51l8.5-12.8 10.1 13 4.6-3.6-10.1-13z" clip-rule="evenodd"/>
+    <path stroke="#fff" stroke-opacity=".8" stroke-width="3" d="M35.3 35.3L47.7 31l3.3-1.2-3-1.6L9.2 6.7 6 5l1 3.5 11.2 42.8 1 3.3 1.8-2.8 7.3-11 8.8 11.3 1 1.2 1.2-1 4.6-3.5 1.2-1-1-1.2-8.8-11.3z"/>
+  </symbol>
+  
+  <linearGradient id="paint0_linear" x1="997.5" y1="277.5" x2="865" y2="277.5" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0C0000" />
+   <stop offset="1" stop-color="#0C0000" stop-opacity="0" />
+  </linearGradient>
+  <clipPath id="clip0">
+   <rect width="1404" height="634" fill="white" />
+  </clipPath>
+ </defs>
+
+
+ <g clip-path="url(#clip0)">
+  <rect width="1404" height="634" fill="white" />
+  <rect x="0" y="0" width="926" height="633" fill="#202124" stroke="#494C50" />
+
+
+  <g class="bookobject">
+   <image
+          href="https://rawcdn.githack.com/sitepoint/Complete-Cover-Archive/d9a5d0faf40c71ff739124bc95558234386a457b/cssmaster-3/working/CSSMaster.svg"
+          width="414" y="52" x="50" />
+   
+   <g class="mask-cssmaster" style="mix-blend-mode:multiply;">
+     <rect width="16" height="104" transform="matrix(-1 0 0 1 465 167)" fill="#EEFDA6" />
+     <rect x="-0.5" y="0.5" width="15" height="103" transform="matrix(-1 0 0 1 464 167)" stroke="black"
+           stroke-opacity="0.72" stroke-dasharray="3 3" />
+     <rect x="194" y="167" width="255" height="104" fill="#C9EFFB" />
+     <rect x="194.5" y="167.5" width="254" height="103" stroke="#C026C4" stroke-opacity="0.72"
+           stroke-dasharray="3 3" />
+     <rect width="146" height="104" transform="matrix(-1 0 0 1 194 167)" fill="#EEFDA6" />
+     <rect x="-0.5" y="0.5" width="145" height="103" transform="matrix(-1 0 0 1 193 167)" stroke="black"
+           stroke-opacity="0.72" stroke-dasharray="3 3" />
+     <rect width="416" height="117" transform="matrix(-1 0 0 1 464 50)" fill="#FD870E" fill-opacity="0.5" />
+     <rect x="-0.5" y="0.5" width="415" height="116" transform="matrix(-1 0 0 1 463 50)" stroke="black"
+           stroke-opacity="0.72" stroke-dasharray="3 3" />
+     <rect width="416" height="7" transform="matrix(-1 0 0 1 464 271)" fill="#FD870E" fill-opacity="0.5" />
+     <rect x="-0.5" y="0.5" width="415" height="6" transform="matrix(-1 0 0 1 463 271)" stroke="black"
+           stroke-opacity="0.72" stroke-dasharray="3 3" />
+   </g>
+
+
+   <g class="mask-third" style="mix-blend-mode:multiply;">     
+     <rect x="328" y="277" width="121" height="18" fill="#C9EFFB" />
+     <rect x="328.5" y="277.5" width="120" height="17" stroke="#C026C4" stroke-opacity="0.72"
+           stroke-dasharray="3 3" />
+     <rect width="15" height="18" transform="matrix(-1 0 0 1 464 277)" fill="#EEFDA6" />
+     <rect x="-0.5" y="0.5" width="14" height="17" transform="matrix(-1 0 0 1 463 277)" stroke="black"
+           stroke-opacity="0.72" stroke-dasharray="3 3" />
+     <rect width="280" height="18" transform="matrix(-1 0 0 1 327 277)" fill="#EEFDA6" fill-opacity="0.5" />
+     <rect x="0" y="0.5" width="280" height="18" transform="matrix(-1 0 0 1 327 277)" stroke="black"
+           stroke-opacity="0.72" stroke-dasharray="3 3" />
+   </g>
+
+   <g class="mask-peacock" style="mix-blend-mode:multiply">
+    <rect x="87" y="295" width="239" height="224" fill="#C9EFFB" />
+    <rect x="87.5" y="295.5" width="238" height="223" stroke="#C026C4" stroke-opacity="0.72"
+          stroke-dasharray="3 3" />
+    <rect width="39" height="223" transform="matrix(-1 0 0 1 87 295)" fill="#EEFDA6" />
+    <rect x="-0.5" y="0.5" width="38" height="222" transform="matrix(-1 0 0 1 86 295)" stroke="black"
+          stroke-opacity="0.72" stroke-dasharray="3 3" />
+    <rect width="138" height="223" transform="matrix(-1 0 0 1 464 295)" fill="#EEFDA6" />
+    <rect x="-0.5" y="0.5" width="137" height="222" transform="matrix(-1 0 0 1 463 295)" stroke="black"
+          stroke-opacity="0.72" stroke-dasharray="3 3" />
+   </g>
+
+
+
+  </g>
+
+  <g class="htmlcode">
+   <g class="codeselect">
+    <rect x="506" y="105" width="508" height="85" fill="#232A36" />
+    <rect x="506" y="191" width="508" height="80" fill="#232A36" />
+    <rect x="505" y="310" width="508" height="85" fill="#232A36" />
+    </g>
+   <text fill="#E8EAED" class="fira-code">
+    <tspan x="616" y="457">Organized, Fast, Efficient. </tspan>
+    <tspan x="616" y="490">CSS Done Right! </tspan>
+   </text>
+   
+   <text fill="#94B1D1" class="fira-code">
+    <tspan x="668.502" y="85.8077">class</tspan>
+   </text>
+   <text fill="#59A7CC" class="fira-code">
+    <tspan x="519" y="85.8077">&#60;section </tspan>
+    <tspan x="751.559" y="85.8077">=&#34;</tspan>
+   </text>
+   <text fill="#59A7CC" class="fira-code">
+    <tspan x="1124" y="85.8077">&#x201c;&#62;</tspan>
+   </text>
+   <text fill="#CC8633" class="fira-code">
+    <tspan x="788" y="85.8077">MainContentContainer</tspan>
+   </text>
+   <path d="M497 0V634" stroke="#494C50" />
+
+
+   <text fill="#59A7CC" class="fira-code">
+    <tspan x="593.611" y="214.808">div</tspan>
+    <tspan x="892.615" y="214.808">&#34;&#62;</tspan>
+   </text>
+   <text fill="#CC8633" class="fira-code">
+    <tspan x="776.336" y="214.808">edition</tspan>
+   </text>
+   <text fill="#59A7CC" class="fira-code">
+    <tspan x="577" y="214.808">&#60;</tspan>
+    <tspan x="643.445" y="214.808"> </tspan>
+    <tspan x="743.113" y="214.808">=&#34;</tspan>
+   </text>
+   <text fill="#94B1D1" class="fira-code">
+    <tspan x="660.057" y="214.808">class</tspan>
+   </text>
+   <text fill="#59A7CC" class="fira-code">
+    <tspan x="593.611" y="298.808">div</tspan>
+    <tspan x="876.004" y="298.808">&#34;&#62;</tspan>
+   </text>
+   <text fill="#CC8633" class="fira-code">
+    <tspan x="776.336" y="298.808">author</tspan>
+   </text>
+   <text fill="#59A7CC" class="fira-code">
+    <tspan x="577" y="298.808">&#60;</tspan>
+    <tspan x="643.445" y="298.808"> </tspan>
+    <tspan x="743.113" y="298.808">=&#34;</tspan>
+   </text>
+   <text fill="#94B1D1" class="fira-code">
+    <tspan x="660.057" y="298.808">class</tspan>
+   </text>
+   <text fill="#59A7CC" class="fira-code">
+    <tspan x="593.611" y="420.808">div</tspan>
+    <tspan x="892.615" y="420.808">&#34;&#62;</tspan>
+   </text>
+   <text fill="#CC8633" class="fira-code">
+    <tspan x="776.336" y="420.808">tagline</tspan>
+   </text>
+   <text fill="#59A7CC" class="fira-code">
+    <tspan x="577" y="420.808">&#60;</tspan>
+    <tspan x="643.445" y="420.808"> </tspan>
+    <tspan x="743.113" y="420.808">=&#34;</tspan>
+   </text>
+   <text fill="#94B1D1" class="fira-code">
+    <tspan x="660.057" y="420.808">class</tspan>
+   </text>
+   <text fill="#59A7CC" class="fira-code">
+    <tspan x="597.611" y="131.808">h1</tspan>
+    <tspan x="846.781" y="131.808">&#34;&#62;</tspan>
+   </text>
+   <text fill="#59A7CC" class="fira-code">
+    <tspan x="581" y="131.808">&#60;</tspan>
+    <tspan x="630.834" y="131.808"> </tspan>
+    <tspan x="730.502" y="131.808">=&#34;</tspan>
+   </text>
+   <text fill="#94B1D1" class="fira-code">
+    <tspan x="647.445" y="131.808">class</tspan>
+   </text>
+   <text fill="#CC8633" class="fira-code">
+    <tspan x="763.725" y="131.808">title</tspan>
+   </text>
+   <text fill="#59A7CC" class="fira-code">
+    <tspan x="856.611" y="256.808">/div&#62;</tspan>
+   </text>
+   <text fill="#59A7CC" class="fira-code">
+    <tspan x="840" y="256.808">&#60;</tspan>
+   </text>
+   <text fill="#59A7CC" class="fira-code">
+    <tspan x="597.611" y="525.808">/div&#62;</tspan>
+   </text>
+   <text fill="#59A7CC" class="fira-code">
+    <tspan x="581" y="525.808">&#60;</tspan>
+   </text>
+   <text fill="#59A7CC" class="fira-code">
+    <tspan x="820.611" y="175.808">/h1&#62;</tspan>
+   </text>
+   <text fill="#59A7CC" class="fira-code">
+    <tspan x="804" y="175.808">&#60;</tspan>
+   </text>
+   <text fill="#E8EAED" class="fira-code">
+    <tspan x="621" y="175.808">CSS Master</tspan>
+   </text>
+   <text fill="#E8EAED" class="fira-code">
+    <tspan x="616" y="257.808">Third Edition</tspan>
+   </text>
+   <text fill="#59A7CC" class="fira-code">
+    <tspan x="892.615" y="376.308">&#34;</tspan>
+   </text>
+   <text fill="#CC8633" class="fira-code">
+    <tspan x="660.057" y="376.308">Golden Peacock</tspan>
+    <tspan x="909.227" y="376.308"> cove</tspan>
+   </text>
+   <text fill="#919191" class="fira-code">
+    <tspan x="743.113" y="336.308">https://sitep</tspan>
+   </text>
+   <text fill="#94B1D1" class="fira-code">
+    <tspan x="660.057" y="336.308">src</tspan>
+   </text>
+   <text fill="#59A7CC" class="fira-code">
+    <tspan x="577" y="336.308">&#60;img </tspan>
+    <tspan x="709.891" y="336.308">=&#34;</tspan>
+    <tspan x="959.061" y="336.308">&#34; &#10;</tspan>
+    <tspan x="626.834" y="376.308">=&#34;</tspan>
+   </text>
+   <text fill="#94B1D1" class="fira-code">
+    <tspan x="577" y="376.308">alt</tspan>
+   </text>
+  </g>
+
+  <g class="boxmodel">
+   <rect x="927" width="477" height="634" fill="#202124" />
+   <rect x="968.5" y="272.5" width="394" height="333" fill="#202124" stroke="#C4C4C4" stroke-dasharray="2 2" />
+   <rect x="993" y="311" width="347" height="263" fill="#AD8052" stroke="#C4C4C4" stroke-width="2"
+         stroke-dasharray="4 4" />
+   <rect x="1023" y="349" width="286" height="188" fill="#E3C381" stroke="white" stroke-width="2" />
+   <rect x="1048" y="388" width="234" height="110" fill="#B8C47F" stroke="#80868B" stroke-width="2"
+         stroke-dasharray="4 4" />
+   <rect x="1088" y="423" width="155" height="38" fill="#88B2BD" stroke="#80868B" stroke-width="2" />
+   <text fill="#CBCBCB" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="20"
+         letter-spacing="0em">
+    <tspan x="978" y="298.836">position</tspan>
+   </text>
+   <text fill="#262724" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="20"
+         letter-spacing="0em">
+    <tspan x="1010" y="336.836">margin</tspan>
+   </text>
+   <text fill="#262724" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="20"
+         letter-spacing="0em">
+    <tspan x="1031" y="374.836">border</tspan>
+   </text>
+   <text fill="#222222" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="20"
+         letter-spacing="0em">
+    <tspan x="1057" y="413.836">padding</tspan>
+   </text>
+   <text fill="#222222" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="20"
+         letter-spacing="0em">
+    <tspan x="1158.27" y="488.836">16</tspan>
+   </text>
+   <text fill="#CBCBCB" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="20"
+         letter-spacing="0em">
+    <tspan x="1164.38" y="299.836">0</tspan>
+   </text>
+   <text fill="#CBCBCB" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="20"
+         letter-spacing="0em">
+    <tspan x="1164.38" y="598.836">0</tspan>
+   </text>
+   <text fill="#CBCBCB" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="20"
+         letter-spacing="0em">
+    <tspan x="1346.38" y="450.836">0</tspan>
+   </text>
+   <text fill="#CBCBCB" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="20"
+         letter-spacing="0em">
+    <tspan x="1256.24" y="449.836">-</tspan>
+   </text>
+   <text fill="#CBCBCB" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="20"
+         letter-spacing="0em">
+    <tspan x="1062.24" y="449.836">-</tspan>
+   </text>
+   <text fill="#CBCBCB" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="20"
+         letter-spacing="0em">
+    <tspan x="1167.24" y="373.836"> -</tspan>
+   </text>
+   <text fill="#CBCBCB" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="20"
+         letter-spacing="0em">
+    <tspan x="1167.24" y="334.836">-</tspan>
+   </text>
+   <text fill="#CBCBCB" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="20"
+         letter-spacing="0em">
+    <tspan x="1167.24" y="564.836">-</tspan>
+   </text>
+   <text fill="#CBCBCB" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="20"
+         letter-spacing="0em">
+    <tspan x="1167.24" y="525.836">-</tspan>
+   </text>
+   <text fill="#CBCBCB" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="20"
+         letter-spacing="0em">
+    <tspan x="1167.24" y="413.836">-</tspan>
+   </text>
+   <text fill="#CBCBCB" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="20"
+         letter-spacing="0em">
+    <tspan x="1319.24" y="449.836">-</tspan>
+   </text>
+   <text fill="#CBCBCB" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="20"
+         letter-spacing="0em">
+    <tspan x="1295.24" y="449.836">-</tspan>
+   </text>
+   <text fill="#CBCBCB" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="20"
+         letter-spacing="0em">
+    <tspan x="1007.24" y="449.836">-</tspan>
+   </text>
+   <text fill="#CBCBCB" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="20"
+         letter-spacing="0em">
+    <tspan x="1034.24" y="449.836">-</tspan>
+   </text>
+   <text fill="#CBCBCB" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="20"
+         letter-spacing="0em">
+    <tspan x="975.385" y="450.836">0</tspan>
+   </text>
+   <text fill="#222222" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="20"
+         letter-spacing="0em">
+    <tspan x="1113.89" y="448.836">416 x 350</tspan>
+   </text>
+  </g>
+
+
+  <g class='csspanel'>
+   <rect x="927" width="477" height="184" fill="#202124" />
+   <text fill="#37D4C7" xml:space="preserve" style="white-space: pre" font-family="Fira Mono" font-size="27"
+         font-weight="500" letter-spacing="0em">
+    <tspan x="1003" y="108.545">box-sizing</tspan>
+   </text>
+   <text fill="#B6BFC7" xml:space="preserve" style="white-space: pre" font-family="Fira Mono" font-size="27"
+         font-weight="500" letter-spacing="0em">
+    <tspan x="1171" y="108.545">: border-box;</tspan>
+   </text>
+   <text fill="#E8EAED" xml:space="preserve" style="white-space: pre" font-family="Fira Mono" font-size="27"
+         font-weight="500" letter-spacing="0em">
+    <tspan x="958" y="145.545">}</tspan>
+   </text>
+   <text fill="#E8EAED" xml:space="preserve" style="white-space: pre" font-family="Fira Mono" font-size="27"
+         font-weight="500" letter-spacing="0em">
+    <tspan x="958" y="66.545">*,*:before, *:after {</tspan>
+   </text>
+
+   <path fill="#CC8633" fill-rule="evenodd"
+         d="M961 84a3 3 0 00-3 3v20a3 3 0 003 3h20a3 3 0 003-3V87a3 3 0 00-3-3h-20zm3.5 11.5l-2.5 3 6.5 6 12-14-3-2.5-9 11-4-3.5z"
+         clip-rule="evenodd" />
+  </g>
+
+
+  <path d="M926 191H1407" stroke="#494C50" />
+  <rect class="gutter" x="900.5" y="0.5" width="26" height="633" fill="#2B2B2B" stroke="#424242" />
+  <rect x="865" width="38" height="668" fill="url(#paint0_linear)" />
+ </g>
+
+<use class="cursor" href="#cursor" width="35px" x="400"/>
+ 
+ 
+</svg>
+
+
+
