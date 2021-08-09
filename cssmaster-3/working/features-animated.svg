@@ -1,0 +1,59 @@
+<svg width="560" height="350" viewBox="0 0 560 350" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="560" height="350">
+<rect width="560" height="350" fill="#EFEFEF"/>
+</mask>
+<g mask="url(#mask0)">
+<rect width="560" height="350" fill="#D1E8FD"/>
+<rect x="196" y="226" width="512" height="109" rx="54.5" fill="white" stroke="black" stroke-width="14" stroke-dasharray="5 2"/>
+<circle cx="251.5" cy="280.5" r="44.5" fill="#585661"/>
+<rect x="293" y="207" width="512" height="109" rx="54.5" transform="rotate(-180 293 207)" fill="white" stroke="black" stroke-width="14" stroke-dasharray="5 2"/>
+<ellipse cx="237.5" cy="152.5" rx="44.5" ry="44.5" transform="rotate(-180 237.5 152.5)" fill="#585661"/>
+<rect x="153" y="22" width="63" height="63" transform="rotate(90 153 22)" fill="#EA4C4C"/>
+<rect width="63" height="24" transform="matrix(-4.37114e-08 1 1 4.37114e-08 66 22)" fill="url(#paint0_linear)"/>
+<rect width="63" height="24" transform="matrix(-4.37114e-08 1 1 4.37114e-08 45 22)" fill="url(#paint1_linear)"/>
+<rect x="153" y="22" width="29" height="28" transform="rotate(90 153 22)" fill="#BB0909"/>
+<rect x="153" y="57" width="28" height="28" transform="rotate(90 153 57)" fill="#BB0909"/>
+<rect x="119" y="57" width="28" height="29" transform="rotate(90 119 57)" fill="#BB0909"/>
+<rect x="119" y="22" width="29" height="29" transform="rotate(90 119 22)" fill="#BB0909"/>
+<rect width="63" height="24" transform="matrix(-0.460746 0.887532 0.887532 0.460746 295.464 35.1282)" fill="url(#paint2_linear)"/>
+<rect width="63" height="24" transform="matrix(-0.155417 0.987849 0.987849 0.155417 263.892 27.6849)" fill="url(#paint3_linear)"/>
+<rect x="364.634" y="101.05" width="63" height="63" transform="rotate(138.183 364.634 101.05)" fill="#EA4C4C"/>
+<rect x="364.634" y="101.05" width="29" height="28" transform="rotate(138.183 364.634 101.05)" fill="#BB0909"/>
+<rect x="338.55" y="124.386" width="28" height="28" transform="rotate(138.183 338.55 124.386)" fill="#BB0909"/>
+<rect x="315.88" y="99.0471" width="28" height="29" transform="rotate(138.183 315.88 99.0471)" fill="#BB0909"/>
+<rect x="341.964" y="75.7106" width="29" height="29" transform="rotate(138.183 341.964 75.7106)" fill="#BB0909"/>
+</g>
+<rect x="539" y="149" width="63" height="63" transform="rotate(90 539 149)" fill="#EA4C4C"/>
+<rect width="63" height="24" transform="matrix(-4.37114e-08 1 1 4.37114e-08 452 149)" fill="url(#paint4_linear)"/>
+<rect width="63" height="24" transform="matrix(-4.37114e-08 1 1 4.37114e-08 431 149)" fill="url(#paint5_linear)"/>
+<rect x="539" y="149" width="29" height="28" transform="rotate(90 539 149)" fill="#BB0909"/>
+<rect x="539" y="184" width="28" height="28" transform="rotate(90 539 184)" fill="#BB0909"/>
+<rect x="505" y="184" width="28" height="29" transform="rotate(90 505 184)" fill="#BB0909"/>
+<rect x="505" y="149" width="29" height="29" transform="rotate(90 505 149)" fill="#BB0909"/>
+<defs>
+<linearGradient id="paint0_linear" x1="32" y1="21" x2="32" y2="-2" gradientUnits="userSpaceOnUse">
+<stop offset="0.0104167" stop-color="#EA4C4C" stop-opacity="0"/>
+<stop offset="1" stop-color="#EA4C4C" stop-opacity="0.359477"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="32" y1="17" x2="32" y2="-39" gradientUnits="userSpaceOnUse">
+<stop offset="0.0104167" stop-color="#EA4C4C" stop-opacity="0"/>
+<stop offset="1" stop-color="#EA4C4C" stop-opacity="0.359477"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="32" y1="21" x2="32" y2="-2" gradientUnits="userSpaceOnUse">
+<stop offset="0.0104167" stop-color="#EA4C4C" stop-opacity="0"/>
+<stop offset="1" stop-color="#EA4C4C" stop-opacity="0.359477"/>
+</linearGradient>
+<linearGradient id="paint3_linear" x1="32" y1="17" x2="32" y2="-39" gradientUnits="userSpaceOnUse">
+<stop offset="0.0104167" stop-color="#EA4C4C" stop-opacity="0"/>
+<stop offset="1" stop-color="#EA4C4C" stop-opacity="0.359477"/>
+</linearGradient>
+<linearGradient id="paint4_linear" x1="32" y1="21" x2="32" y2="-2" gradientUnits="userSpaceOnUse">
+<stop offset="0.0104167" stop-color="#EA4C4C" stop-opacity="0"/>
+<stop offset="1" stop-color="#EA4C4C" stop-opacity="0.359477"/>
+</linearGradient>
+<linearGradient id="paint5_linear" x1="32" y1="17" x2="32" y2="-39" gradientUnits="userSpaceOnUse">
+<stop offset="0.0104167" stop-color="#EA4C4C" stop-opacity="0"/>
+<stop offset="1" stop-color="#EA4C4C" stop-opacity="0.359477"/>
+</linearGradient>
+</defs>
+</svg>
