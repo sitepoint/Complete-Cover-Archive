@@ -1,0 +1,247 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/alexmwalker/Sites/Cover-archive/Complete-Cover-Archive/PHP7/FINAL COVER/9781925836462-php7 Folder/Document fonts/AdobeFnt22.lst
+FileLength:6003
+FileModTime:664762490
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BradleyHandITCTT-Bold
+FamilyName:Bradley Hand
+StyleName:Bold
+MenuName:Bradley Hand
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Bradley Hand Bold
+WritingScript:Roman
+OutlineFileName:/Users/alexmwalker/Sites/Cover-archive/Complete-Cover-Archive/PHP7/FINAL COVER/9781925836462-php7 Folder/Document fonts/Bradley Hand Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:596216
+FileModTime:664762490
+NameArray:0,Mac,4,Bradley Hand Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Medium
+FamilyName:Montserrat
+StyleName:Medium
+MenuName:Montserrat Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Montserrat Medium
+WritingScript:Roman
+OutlineFileName:/Users/alexmwalker/Sites/Cover-archive/Complete-Cover-Archive/PHP7/FINAL COVER/9781925836462-php7 Folder/Document fonts/Montserrat-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:243180
+FileModTime:345387600
+NameArray:0,Win,1,Montserrat Medium
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-SemiBold
+FamilyName:Montserrat
+StyleName:SemiBold
+MenuName:Montserrat SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Montserrat SemiBold
+WritingScript:Roman
+OutlineFileName:/Users/alexmwalker/Sites/Cover-archive/Complete-Cover-Archive/PHP7/FINAL COVER/9781925836462-php7 Folder/Document fonts/Montserrat-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:243816
+FileModTime:345387600
+NameArray:0,Win,1,Montserrat SemiBold
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Swiss721BT-Roman
+FamilyName:Swis721 BT
+StyleName:Roman
+MenuName:Swis721 BT
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Swiss 721 BT
+WritingScript:Roman
+OutlineFileName:/Users/alexmwalker/Sites/Cover-archive/Complete-Cover-Archive/PHP7/FINAL COVER/9781925836462-php7 Folder/Document fonts/swiss.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:36548
+FileModTime:145243500
+NameArray:0,Mac,4,Swiss 721 BT
+NameArray:0,Win,1,Swis721 BT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Swiss721BT-Bold
+FamilyName:Swis721 BT
+StyleName:Bold
+MenuName:Swis721 BT
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Swiss 721 Bold BT
+WritingScript:Roman
+OutlineFileName:/Users/alexmwalker/Sites/Cover-archive/Complete-Cover-Archive/PHP7/FINAL COVER/9781925836462-php7 Folder/Document fonts/swissb.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:36852
+FileModTime:145243500
+NameArray:0,Mac,4,Swiss 721 Bold BT
+NameArray:0,Win,1,Swis721 BT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Times-Bold
+FamilyName:Times
+StyleName:Bold
+MenuName:Times
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Times Bold
+WritingScript:Roman
+OutlineFileName:/Users/alexmwalker/Sites/Cover-archive/Complete-Cover-Archive/PHP7/FINAL COVER/9781925836462-php7 Folder/Document fonts/Times.ttc
+TTCOffset:388
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:915932
+FileModTime:664762490
+NameArray:0,Mac,4,Times Bold
+NameArray:0,Mac,4,Times Gras
+NameArray:0,Mac,4,Times Fett
+NameArray:0,Mac,4,Times grassetto
+NameArray:0,Mac,4,Times vet
+NameArray:0,Mac,4,Times Fet
+NameArray:0,Mac,4,Times Negrita
+NameArray:0,Mac,4,Times Fed
+NameArray:0,Mac,4,Times Carregado
+NameArray:0,Mac,4,Times Halvfet
+NameArray:0,Mac,4,Times lihava
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Times-BoldItalic
+FamilyName:Times
+StyleName:Bold Italic
+MenuName:Times
+StyleBits:1
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Times Bold Italic
+WritingScript:Roman
+OutlineFileName:/Users/alexmwalker/Sites/Cover-archive/Complete-Cover-Archive/PHP7/FINAL COVER/9781925836462-php7 Folder/Document fonts/Times.ttc
+TTCOffset:1084
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:915932
+FileModTime:664762490
+NameArray:0,Mac,4,Times Bold Italic
+NameArray:0,Mac,4,Times Gras italique
+NameArray:0,Mac,4,Times Fett Kursiv
+NameArray:0,Mac,4,Times grassetto corsivo
+NameArray:0,Mac,4,Times vet-cursief
+NameArray:0,Mac,4,Times Fet Kursiv
+NameArray:0,Mac,4,Times Negrita Cursiva
+NameArray:0,Mac,4,Times Fed kursiv
+NameArray:0,Mac,4,Times Carregado Itálico
+NameArray:0,Mac,4,Times Halvfet kursiv
+NameArray:0,Mac,4,Times lihava kursiivi
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Times-Italic
+FamilyName:Times
+StyleName:Italic
+MenuName:Times
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Times Italic
+WritingScript:Roman
+OutlineFileName:/Users/alexmwalker/Sites/Cover-archive/Complete-Cover-Archive/PHP7/FINAL COVER/9781925836462-php7 Folder/Document fonts/Times.ttc
+TTCOffset:736
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:915932
+FileModTime:664762490
+NameArray:0,Mac,4,Times Italic
+NameArray:0,Mac,4,Times Italique
+NameArray:0,Mac,4,Times Kursiv
+NameArray:0,Mac,4,Times corsivo
+NameArray:0,Mac,4,Times cursief
+NameArray:0,Mac,4,Times Kursiv
+NameArray:0,Mac,4,Times Cursiva
+NameArray:0,Mac,4,Times kursiv
+NameArray:0,Mac,4,Times Itálico
+NameArray:0,Mac,4,Times kursiv
+NameArray:0,Mac,4,Times kursiivi
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Times-Roman
+FamilyName:Times
+StyleName:Regular
+MenuName:Times
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Times Roman
+WritingScript:Roman
+OutlineFileName:/Users/alexmwalker/Sites/Cover-archive/Complete-Cover-Archive/PHP7/FINAL COVER/9781925836462-php7 Folder/Document fonts/Times.ttc
+TTCOffset:40
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:915932
+FileModTime:664762490
+NameArray:0,Mac,4,Times Roman
+%EndFont
+
