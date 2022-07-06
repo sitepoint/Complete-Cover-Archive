@@ -1,0 +1,102 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/sitepoint/Documents/Documents - MacBook Pro (2)/Github/nodejs2/cover/template/9781925836400-LTC (1) Folder/Document fonts/AdobeFnt22.lst
+FileLength:2329
+FileModTime:675913965
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BradleyHandITCTT-Bold
+FamilyName:Bradley Hand
+StyleName:Bold
+MenuName:Bradley Hand
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Bradley Hand Bold
+WritingScript:Roman
+OutlineFileName:/Users/sitepoint/Documents/Documents - MacBook Pro (2)/Github/nodejs2/cover/template/9781925836400-LTC (1) Folder/Document fonts/Bradley Hand Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:596216
+FileModTime:675913964
+NameArray:0,Mac,4,Bradley Hand Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Swiss721BT-Roman
+FamilyName:Swis721 BT
+StyleName:Roman
+MenuName:Swis721 BT
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Swiss 721 BT
+WritingScript:Roman
+OutlineFileName:/Users/sitepoint/Documents/Documents - MacBook Pro (2)/Github/nodejs2/cover/template/9781925836400-LTC (1) Folder/Document fonts/swiss.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:36548
+FileModTime:145243500
+NameArray:0,Mac,4,Swiss 721 BT
+NameArray:0,Win,1,Swis721 BT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Swiss721BT-Bold
+FamilyName:Swis721 BT
+StyleName:Bold
+MenuName:Swis721 BT
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Swiss 721 Bold BT
+WritingScript:Roman
+OutlineFileName:/Users/sitepoint/Documents/Documents - MacBook Pro (2)/Github/nodejs2/cover/template/9781925836400-LTC (1) Folder/Document fonts/swissb.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:36852
+FileModTime:145243500
+NameArray:0,Mac,4,Swiss 721 Bold BT
+NameArray:0,Win,1,Swis721 BT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Swiss721BT-BoldItalic
+FamilyName:Swis721 BT
+StyleName:Bold Italic
+MenuName:Swis721 BT
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Swiss 721 Bold Italic BT
+WritingScript:Roman
+OutlineFileName:/Users/sitepoint/Documents/Documents - MacBook Pro (2)/Github/nodejs2/cover/template/9781925836400-LTC (1) Folder/Document fonts/swissbi.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:36520
+FileModTime:145243500
+NameArray:0,Mac,4,Swiss 721 Bold Italic BT
+NameArray:0,Win,1,Swis721 BT
+%EndFont
+
