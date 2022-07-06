@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 597 730" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="gradient-3" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="597" y2="0" gradientTransform="matrix(-0.621403, 1.291032, -0.901057, -0.433701, 540.09915, -49.747422)">
+      <stop style="stop-color: rgb(69, 191, 239);" offset="0"/>
+      <stop style="stop-color: rgb(64, 140, 203);" offset="1"/>
+    </linearGradient>
+    <linearGradient id="gradient-1" x1="2189.1" x2="2189.1" y1="1223.4" y2="1746.1" gradientTransform="matrix(1, 0, 0, 1, -2212.085693, -1017.400024)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="rgba(255, 255, 255, 0.46)"/>
+      <stop offset="1" stop-color="rgba(255, 255, 255, 0.02)"/>
+    </linearGradient>
+    <symbol id="sitepoint" viewBox="0 0 148 34.1">
+      <g fill="#fff" transform="matrix(1, 0, 0, 1, 0, 0)">
+        <path d="M37.8 21.2c.2.4.5.7.9 1l1.3.4a7.4 7.4 0 004-.3c.4-.1.7-.4 1-.7.2-.3.3-.8.3-1.2 0-.3 0-.6-.2-.9-.1-.2-.3-.5-.6-.6-.5-.4-1.2-.7-1.8-.9l-2.5-.5c-.8-.2-1.6-.4-2.4-.8a5 5 0 01-1.9-1.3c-.5-.7-.8-1.5-.7-2.4 0-.7.1-1.4.5-2 .3-.6.8-1 1.3-1.4.6-.4 1.2-.7 1.9-.8l2-.3c.9 0 1.7.1 2.5.3.7.1 1.3.4 2 .8.5.3 1 .9 1.3 1.5.4.7.6 1.5.6 2.4h-2.5c0-.5-.2-1-.4-1.3-.2-.3-.5-.6-.9-.8-.3-.2-.7-.4-1.1-.4l-1.3-.2-1.1.1c-.4 0-.7.2-1 .3l-.9.6c-.2.3-.3.7-.3 1a1.5 1.5 0 00.5 1.1c.4.4.8.6 1.2.8l1.6.5a120.5 120.5 0 013.7.9 6 6 0 011.6.8c.5.3.9.8 1.1 1.3.4.6.5 1.2.5 1.9 0 .8-.2 1.6-.6 2.3-.4.7-1 1.2-1.5 1.6-.7.4-1.4.6-2.2.8a12.4 12.4 0 01-4.8 0 6 6 0 01-2-1c-.7-.4-1.2-1-1.5-1.6-.4-.8-.6-1.6-.6-2.5h2.6c0 .5.1 1 .4 1.5zM53.5 8.9h-2.6v15.8h2.6V8.9zM64 8.9v2.3h-3v10.5c0 .2.2.3.3.5l.6.1h2.2v2.4h-2a9 9 0 01-1.7-.2c-.4 0-.8-.2-1.1-.5-.3-.2-.6-.6-.7-1l-.2-1.8v-10h-2.6V8.9h2.7V4.2H61v4.7h3zM77.9 23.7a7 7 0 01-4.4 1.3c-1.1 0-2.2-.2-3.2-.6-1-.4-1.7-1-2.3-1.7a7.3 7.3 0 01-1.4-2.6c-.3-1-.5-2.2-.5-3.3 0-1.2.1-2.3.5-3.3a8 8 0 011.5-2.6 6.9 6.9 0 015.2-2.4 6.3 6.3 0 015.7 3.1c.5 1 .9 2 1.1 3l.3 3H68.8c0 .6 0 1.3.2 2 .2.5.5 1.1.9 1.6s1 .9 1.5 1.1c.7.3 1.4.5 2.2.5 1 0 1.9-.3 2.6-.8.8-.6 1.2-1.4 1.4-2.3h2.5c-.2 1.6-1 3-2.2 4zm-.6-10.2a4.4 4.4 0 00-2.4-2.3c-.5-.3-1.1-.4-1.7-.4-.6 0-1.2.1-1.8.4-.5.2-1 .5-1.3 1-.4.3-.7.8-1 1.4-.2.5-.3 1-.3 1.7h8.9c0-.6-.2-1.2-.4-1.8zM85.6 8.9V11c.5-.8 1.2-1.5 2-1.9 1-.4 2-.6 3-.6 1.1 0 2.2.2 3.2.7.8.4 1.6 1 2.2 1.8a8 8 0 011.3 2.7 11.3 11.3 0 010 6.3c-.2 1-.7 1.8-1.3 2.6-.6.7-1.4 1.3-2.2 1.7a7 7 0 01-4.4.6 7 7 0 01-1.4-.4l-1.3-.7-1-1.2v8.1H83V9h2.5zm9.2 5.6c-.2-.7-.5-1.3-.9-1.9a4.3 4.3 0 00-3.6-1.8c-.8 0-1.5.2-2.2.5-.6.4-1 .8-1.5 1.4-.4.6-.6 1.2-.8 1.9a9.3 9.3 0 000 4.4c.2.7.5 1.4.9 2a4.4 4.4 0 003.7 1.8c.8 0 1.6-.2 2.2-.6.6-.3 1.1-.7 1.5-1.3a6 6 0 00.8-2l.2-2.2c0-.8-.1-1.5-.3-2.2zM100.4 13.6c.3-1 .8-2 1.4-2.7.7-.7 1.5-1.3 2.4-1.7 2.1-.9 4.4-.9 6.5 0a6.8 6.8 0 013.8 4.4 10.7 10.7 0 010 6.4c-.3 1-.8 1.9-1.4 2.7-.7.7-1.5 1.3-2.4 1.7-2 .8-4.4.8-6.5 0-.9-.4-1.7-1-2.4-1.7a7.4 7.4 0 01-1.4-2.7 10.7 10.7 0 010-6.5zm2.6 5.8c.2.6.6 1.3 1 1.8a4.5 4.5 0 003.4 1.6c.7 0 1.3-.2 2-.4l1.5-1.2c.4-.5.8-1.2 1-1.8.5-1.7.5-3.5 0-5.1-.2-.7-.6-1.4-1-2a4.4 4.4 0 00-3.5-1.5c-.6 0-1.2.2-1.8.4-.6.3-1.2.7-1.6 1.2-.4.5-.8 1.2-1 1.9a8.9 8.9 0 000 5zM120.7 8.9H118v15.8h2.6V8.9zM127 8.9v2.5c1.1-2 2.8-2.9 5.1-2.9.9 0 1.8.2 2.6.5a4 4 0 011.6 1.1c.4.6.8 1.2.9 1.9.2.7.3 1.5.3 2.3v10.4h-2.6V14a3.2 3.2 0 00-.9-2.3 3.1 3.1 0 00-2.3-.9c-.7 0-1.3.1-2 .4-.5.2-1 .6-1.4 1-.4.5-.7 1-.9 1.6-.2.6-.3 1.3-.3 2v8.9h-2.5V8.9h2.4zM148 8.9v2.3h-3.2V21l.1.7c0 .2.2.3.3.5l.6.1h2.1v2.4h-2a9 9 0 01-1.6-.2c-.4 0-.8-.2-1.2-.5-.3-.2-.5-.6-.6-1a6 6 0 01-.2-1.8v-10h-2.6V8.9h2.6V4.2h2.5v4.7h3.1zM.7 15L3 17.3l7.4 7.4 3.2-3.3a1.2 1.2 0 000-1.4l-3-2.7-3-3.2a1.2 1.2 0 010-1.5L16 3.9 12.2 0 3 9.3.7 11.7a2.3 2.3 0 00-.7 1.6A2.4 2.4 0 00.7 15z"/>
+        <path d="M26 19.1l-2.4-2.4-7.4-7.3-3.2 3.3a1.2 1.2 0 000 1.4l3 2.7L19 20a1.1 1.1 0 010 1.5l-8.5 8.6 3.9 4 9.1-9.3 2.4-2.4a2.3 2.3 0 00.6-1.7 2.4 2.4 0 00-.6-1.6zM52.2 7.2c.8 0 1.5-.7 1.5-1.5 0-.9-.7-1.5-1.5-1.5s-1.5.6-1.5 1.5c0 .8.7 1.5 1.5 1.5zM119.4 7.2c.8 0 1.5-.7 1.5-1.5 0-.9-.7-1.5-1.5-1.5s-1.5.6-1.5 1.5c0 .8.7 1.5 1.5 1.5z"/>
+      </g>
+    </symbol>
+    <symbol id="bird" viewBox="0 0 235.4 291.6">
+      <path fill="snow" fill-rule="evenodd" d="M203.9 28.3l-13.5 176-137.7-44 88.6 159.5 57 3.8 2 4.1L23 410l120.9-7.6-67.3 62.7 154.7-66 57-4.6 1.3.4v-.4h.4l37-55.7 28.6-42.7-21.2 32 42.4 17.5-21.2-49.5-53.1-5.9-13.5 12.6-.7-131.9-84.3-142.6zM221.5 87a6.8 6.8 0 11-13.5-1.5 6.8 6.8 0 0113.5 1.5z" clip-rule="evenodd" transform="matrix(.66 0 0 .66 -15.2 -18.4)"/>
+      <path fill="url(#paint0_linear)" d="M2012 948.5l70-3.7L2107 909l-16.8-33.5-78.3 73z" transform="translate(-1904.3 -701)"/>
+      <path fill="#C4C4C4" d="M288.6 303.3L258.9 326l30 69.8-.3-92.6z" transform="matrix(.66 0 0 .66 -15.2 -18.4)"/>
+      <path fill="url(#paint1_linear)" d="M1924.3 789.8l59 105.4 60 4-19.6-77.8-99.4-31.6z" transform="translate(-1904.3 -701)"/>
+      <path fill="url(#paint2_linear)" fill-rule="evenodd" d="M2024.5 700.9l56 95.5-67 56.8 11-152.3z" clip-rule="evenodd" transform="translate(-1904.3 -701)"/>
+      <path fill="url(#paint3_radial)" d="M2090.3 875.5l16.2 32.3 19-28.4-35.3-3.9z" transform="translate(-1904.3 -701)"/>
+      <path fill="url(#paint4_linear)" d="M1904.6 955.1l128.2-59.4 14.7 31.6-107.3 64.5 102.8-44.5-138.4 7.8z" transform="translate(-1904.3 -701)"/>
+      <path fill="url(#paint5_linear)" d="M2032.4 896.4l18.3 47.8-111 48.3L1988 947l44.5-50.6z" transform="translate(-1904.3 -701)"/>
+      <path fill="url(#paint6_linear)" d="M2080.5 796.4a740.5 740.5 0 00-79.4 59l43.5 92.5c15 .3 23-.2 36.7-2l-.8-149.5z" transform="translate(-1904.3 -701)"/>
+      <path fill="url(#paint7_linear)" d="M2139.6 912.3l-14-32.9-14.1 21.2 28.1 11.7z" transform="translate(-1904.3 -701)"/>
+    </symbol>
+    <linearGradient id="paint0_linear" x1="317" x2="236.1" y1="400.5" y2="327.3" gradientTransform="matrix(.66455 0 0 .66455 1889 682.5)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="0.7" stop-color="#E9E9EA"/>
+      <stop offset="0.9" stop-color="#C5C6C8"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear" x1="103.6" x2="187.9" y1="247.5" y2="225.4" gradientTransform="matrix(.66455 0 0 .66455 1889 682.5)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="0.8" stop-color="#E9E9EA"/>
+      <stop offset="1" stop-color="#D6D7D8"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear" x1="187.1" x2="239.3" y1="146.1" y2="217.7" gradientTransform="matrix(.66455 0 0 .66455 1889 682.5)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="0.8" stop-color="#E9E9EA"/>
+      <stop offset="1" stop-color="#C5C6C8"/>
+    </linearGradient>
+    <radialGradient id="paint3_radial" cx="0" cy="0" r="1" gradientTransform="matrix(-18.1 14.5 -29.84 -37.29 2121.5 891.4)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="0.8" stop-color="#E9E9EA"/>
+      <stop offset="1" stop-color="#C5C6C8"/>
+    </radialGradient>
+    <linearGradient id="paint4_linear" x1="119.7" x2="165.2" y1="380" y2="427.6" gradientTransform="matrix(.66455 0 0 .66455 1889 682.5)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="0.4" stop-color="#E9E9EA"/>
+      <stop offset="1" stop-color="#C5C6C8"/>
+    </linearGradient>
+    <linearGradient id="paint5_linear" x1="133.3" x2="155.1" y1="383.6" y2="443.5" gradientTransform="matrix(.66455 0 0 .66455 1889 682.5)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="0.4" stop-color="#E9E9EA"/>
+      <stop offset="1" stop-color="#C5C6C8"/>
+    </linearGradient>
+    <linearGradient id="paint6_linear" x1="229" x2="313.5" y1="264.7" y2="276.7" gradientTransform="matrix(.66455 0 0 .66455 1889 682.5)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="0.8" stop-color="#E9E9EA"/>
+      <stop offset="1" stop-color="#C5C6C8"/>
+    </linearGradient>
+    <linearGradient id="paint7_linear" x1="370" x2="339" y1="337.9" y2="316.3" gradientTransform="matrix(.66455 0 0 .66455 1889 682.5)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="0.8" stop-color="#E9E9EA"/>
+      <stop offset="1" stop-color="#C5C6C8"/>
+    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&amp;display=swap');
+      text {
+        font-family: 'Inter', Arial, Helvetica, sans-serif;
+        fill: #fff
+      }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="597" height="730" style="fill: url(#gradient-3);"/>
+  <g id="cloud">
+    <path fill="url(#gradient-1)" d="M 597.306 461.861 L 597.181 727.381 L -0.284 728.6 L -0.284 207.8 C 67.716 215.2 130.916 246.4 167.716 291.1 C 206.916 338.7 215.216 400.6 189.316 453.4 C 215.245 441.468 245.271 442.394 270.416 455.9 C 293.216 469.5 303.416 494.5 294.616 515.9 C 303.116 499.5 325.616 492.1 347.716 496.4 C 369.916 500.7 386.016 518.7 383.516 536.2 C 406.616 495.4 455.616 468.4 512.216 459.5 C 535.716 456 559.616 456 583.216 459.6 L 597.306 461.861 Z" class="cls-26"/>
+    <path fill="rgba(255, 255, 255, 0.18)" d="M 596.99 729.516 L 0.324 730.6 L 0.324 413.6 C 37.501 417.912 73.457 429.535 106.124 447.8 C 181.924 491.6 218.324 572.8 191.324 642.8 C 209.024 615.4 249.524 600.3 289.224 598.1 C 328.924 595.9 369.524 611 392.024 636.2 C 414.394 659.964 418.273 695.689 401.524 723.7 C 432.324 682.2 502.444 666.99 562.724 676.7 C 591.221 681.29 574.317 676.998 597.283 685.252 L 596.99 729.516 Z" class="cls-26"/>
+  </g>
+  <g>
+    <use width="134.7" height="29.4" transform="matrix(1, 0, 0, 1, 420, 57)" xlink:href="#sitepoint"/>
+    <use width="200" height="262" transform="matrix(1, 0, 0, 1, 100, 350)" xlink:href="#bird"/>
+  </g>
+  <text x="551" y="180" font-size="31" font-weight="600" text-anchor="end" style="white-space: pre;"><title>The-principles-of</title>THE PRINCIPLES OF</text>
+  <text fill="#fff" font-size="74" font-weight="500" letter-spacing="-2.6" text-anchor="end" style="white-space: pre;"><title>beautiful-web-design</title><tspan x="0" dy="1em">​</tspan>    <tspan x="554" y="245">BEAUTIFUL</tspan><tspan x="526" dy="0.9em">WEB DESIGN​</tspan></text>
+  <g fill="#fff">
+    <title>Fourth-ed-authors</title>
+    <text x="550" y="340" font-size="20" font-weight="600" text-anchor="end" style="white-space: pre;">FOURTH EDITION</text>
+    <text font-size="16" font-weight="500" class="authors" text-anchor="end" style="white-space: pre;"><tspan y="360" x="549">BY JASON BEAIRD,</tspan><tspan dy="1.1em" x="549">​JAMES GEORGE,</tspan><tspan dy="1.1em" text-anchor="end" x="548">​&amp; ALEX WALKER</tspan></text>
+  </g>
+  <text x="300" y="680" font-size="16" font-weight="700" letter-spacing=".9" text-anchor="middle" style="white-space: pre;">DESIGNING GREAT WEB SITES IS NOT ROCKET SCIENCE!</text>
+</svg>

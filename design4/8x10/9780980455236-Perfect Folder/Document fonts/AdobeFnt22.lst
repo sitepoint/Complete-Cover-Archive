@@ -1,0 +1,104 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/alexmwalker/Sites/Cover-archive/Complete-Cover-Archive/design4/8x10/9780980455236-Perfect Folder/Document fonts/AdobeFnt22.lst
+FileLength:2574
+FileModTime:620869489
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Chalkduster
+FamilyName:Chalkduster
+StyleName:Regular
+MenuName:Chalkduster
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Chalkduster
+WritingScript:Roman
+OutlineFileName:/Users/alexmwalker/Sites/Cover-archive/Complete-Cover-Archive/design4/8x10/9780980455236-Perfect Folder/Document fonts/Chalkduster.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:486860
+FileModTime:620801171
+NameArray:0,Mac,18,Chalkduster
+NameArray:0,Mac,4,Chalkduster
+NameArray:0,Win,1,Chalkduster
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Swiss721BT-Roman
+FamilyName:Swis721 BT
+StyleName:Roman
+MenuName:Swis721 BT
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Swiss 721 BT
+WritingScript:Roman
+OutlineFileName:/Users/alexmwalker/Sites/Cover-archive/Complete-Cover-Archive/design4/8x10/9780980455236-Perfect Folder/Document fonts/swiss.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:36548
+FileModTime:145243500
+NameArray:0,Mac,4,Swiss 721 BT
+NameArray:0,Win,1,Swis721 BT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Swiss721BT-Bold
+FamilyName:Swis721 BT
+StyleName:Bold
+MenuName:Swis721 BT
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Swiss 721 Bold BT
+WritingScript:Roman
+OutlineFileName:/Users/alexmwalker/Sites/Cover-archive/Complete-Cover-Archive/design4/8x10/9780980455236-Perfect Folder/Document fonts/swissb.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:36852
+FileModTime:145243500
+NameArray:0,Mac,4,Swiss 721 Bold BT
+NameArray:0,Win,1,Swis721 BT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Swiss721BT-BoldItalic
+FamilyName:Swis721 BT
+StyleName:Bold Italic
+MenuName:Swis721 BT
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Swiss 721 Bold Italic BT
+WritingScript:Roman
+OutlineFileName:/Users/alexmwalker/Sites/Cover-archive/Complete-Cover-Archive/design4/8x10/9780980455236-Perfect Folder/Document fonts/swissbi.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:36520
+FileModTime:145243500
+NameArray:0,Mac,4,Swiss 721 Bold Italic BT
+NameArray:0,Win,1,Swis721 BT
+%EndFont
+

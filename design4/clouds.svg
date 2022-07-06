@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="-281.198 -204.626 1206.988 608.56" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip-path" transform="translate(366.7 591.3)">
+      <rect class="cls-17" x="-6.6" width="1212.3" height="738.13" style="fill: none;"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-15" x1="-272" y1="863.97" x2="-271" y2="863.97" gradientTransform="translate(411703.6 -1308053.6) scale(1514.44)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3e7dc0"/>
+      <stop offset="1" stop-color="#46c8f5"/>
+    </linearGradient>
+    <clipPath id="clip-path-2" transform="translate(366.7 591.3)">
+      <rect class="cls-17" x="-8.6" width="1212.3" height="738.13" style="fill: none;"/>
+    </clipPath>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="2189.068" y1="1223.446" x2="2189.068" y2="1746.062" id="gradient-1" gradientTransform="matrix(1, 0, 0, 1, -1225.349487, -414.44754)">
+      <stop offset="0" style="stop-color: rgba(255, 255, 255, 0.46);"/>
+      <stop offset="1" style="stop-color: rgba(255, 255, 255, 0.02);"/>
+    </linearGradient>
+  </defs>
+  <g class="cls-20" style="clip-path: url(#clip-path);" transform="matrix(1.001778, 0, 0, 0.832055, -643.581665, -698.796448)">
+    <rect class="cls-21" x="-67.3" y="-334.8" width="1333.6" height="1407.77" transform="translate(303.5 1198.1) rotate(-51.4)" style="fill: url(#linear-gradient-15);"/>
+  </g>
+  <g class="cls-22" transform="matrix(1, 0, 0, 1, -640.483704, -916.593384)" style="clip-path: url(#clip-path-2);">
+    <path class="cls-26" d="M 1569.819 1062.62 L 1569.819 1331.614 L 357.519 1331.614 L 357.519 1071.32 C 371.81 1062.732 387.319 1056.36 403.519 1052.42 C 458.319 1039.22 522.619 1052.92 560.719 1086.02 C 593.019 995.52 667.819 909.42 769.219 857.32 C 829.519 826.42 900.419 805.02 973.319 809.62 C 1046.219 814.22 1115.319 846.52 1154.519 894.12 C 1193.719 941.72 1202.019 1003.62 1176.119 1056.42 C 1200.619 1044.62 1234.419 1045.32 1257.219 1058.92 C 1280.019 1072.52 1290.219 1097.52 1281.419 1118.82 C 1289.919 1102.52 1312.319 1095.12 1334.519 1099.42 C 1356.719 1103.72 1372.819 1121.72 1370.319 1139.22 C 1393.419 1098.42 1442.419 1071.42 1499.019 1062.52 C 1522.521 1058.954 1546.428 1058.988 1569.919 1062.62 Z" style="fill: url(#gradient-1);"/>
+    <path class="cls-26" d="M 1203.7 693.1 C 1196.678 690.329 1189.458 688.089 1182.1 686.4 C 1122.6 672.7 1051.7 691.9 1020.9 733.4 C 1037.7 705.6 1033.9 671.1 1011.4 645.9 C 988.9 620.7 948.3 605.6 908.6 607.8 C 868.9 610 828.4 625.1 810.7 652.5 C 837.7 582.5 801.3 501.3 725.5 457.5 C 649.7 413.7 540.1 408.8 457 443.9 C 373.9 479 312.7 546.2 313.3 619.2 C 279.8 563 194.2 528.2 115.1 538.8 C 64.2 545.5 19 570.5 -8.7 603.9 L -8.639 741.012 L 1207.7 739.569 L 1203.7 693.1 Z" transform="translate(366.7 591.3)" style="fill: rgba(255, 255, 255, 0.18);"/>
+  </g>
+</svg>
